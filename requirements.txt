@@ -4,6 +4,6 @@
 
 pbr!=2.1.0,>=2.0.0 # Apache-2.0
 libvirt-python>=6.0.0 # LGPLv2+
-git+https://github.com/streaky/pyghmi.git@cipher-suite-fixes#egg=pyghmi
+pyghmi @ git+https://github.com/streaky/pyghmi.git@cipher-suite-fixes
 cliff!=2.9.0,>=2.8.0 # Apache-2.0
 pyzmq>=19.0.0  # LGPL+BSD
